@@ -8,3 +8,5 @@ The goal of this task is to develop a Python script that reads data from a file 
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/58368417-84bd-497f-b5fc-b176f24e0be7)
+
