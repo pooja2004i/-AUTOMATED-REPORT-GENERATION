@@ -1,5 +1,17 @@
 # -AUTOMATED-REPORT-GENERATION
 
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: POOJA I
+
+INTERN ID: CT04WU140
+
+DONAIN: PYTHON PROGRAMMING 
+
+DURATION: 4 HEEEKS
+
+MENTOR: NEELA SANTOSH
+
 Task 2: Automated Report Generation
 In the second task, developed a script that reads data from a local CSV file, performs analysis I used pandas for data analysis and FPDF to format and export the data into a structured report.
 Automated report generation is a process where raw data is analyzed, structured, and formatted into a report without manual intervention. This is widely used in business intelligence, finance, and data analytics to generate structured reports quickly and efficiently.
